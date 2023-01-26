@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/.idea/core.iml" filepath="$PROJECT_DIR$/.idea/core.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/TheCheapest.iml" filepath="$PROJECT_DIR$/TheCheapest.iml" />
+>>>>>>> 9403cca13fe98fcd73b51a0fddcf171d80ca3ce3
+=======
+      <module fileurl="file://$PROJECT_DIR$/TheCheapest.iml" filepath="$PROJECT_DIR$/TheCheapest.iml" />
+>>>>>>> 9403cca13fe98fcd73b51a0fddcf171d80ca3ce3
+    </modules>
+  </component>
+</project>
